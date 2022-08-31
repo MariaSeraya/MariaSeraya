@@ -15,9 +15,9 @@
   </a>
 </div>
 
-<div id="section">
+
   **Hi, my name is Maria and I'm a student frontend-developer.**
   **About me:**
   * I study at the Pracricum by Yandex (web-developer course) and I like it!
   
-</div>
+
