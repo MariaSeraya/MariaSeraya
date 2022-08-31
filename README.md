@@ -16,8 +16,8 @@
 </div>
 
 <div id="section">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi, my name is Maria and I'm a student frontend-developer.
-  About me:
-  - I study at the Pracricum by Yandex (web-developer course) and I like it!
+  **Hi, my name is Maria and I'm a student frontend-developer.**
+  **About me:**
+  * I study at the Pracricum by Yandex (web-developer course) and I like it!
   
 </div>
