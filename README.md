@@ -17,8 +17,14 @@
 </div>
 
 
-  **Hi, my name is Maria and I'm a student frontend-developer.**
-  **About me:**
-  * I study at the Pracricum by Yandex (web-developer course) and I like it!
+  :wave: **Hi, my name is Maria and I'm a student frontend-developer.** ***About me:***
+  * I study at the Practicum by Yandex (web-developer course) and I love it!
+  
+  :hammer: **Languages and Tools:**
+  * HTML
+  * CSS
+  * Learning JS
+  * Photoshop
+  * Learning Figma
   
 
