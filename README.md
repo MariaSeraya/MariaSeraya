@@ -3,6 +3,6 @@
 
 const USE = ["<b>HTML</b>", "<b>CSS</b>", "<b>Photoshop</b>", "<b>Figma</b>", "<b>my brain</b>"];
 
-const STUDY= ["<b>JavaScript</b>", "<b>React</b>"];
+const STUDY = ["<b>JavaScript</b>", "<b>React</b>"];
 
 
