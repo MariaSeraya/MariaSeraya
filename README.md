@@ -1,10 +1,8 @@
 <div align="center"><h1>MARIA SERAYA</h1>
-<h2>student frontend-developer</h2>
-<p><< I create a design, add a little code, and together they help to people >></p>
-</div>
+<h2><< student frontend-developer >></h2></div>
 
-const <b>USE</b> = ["HTML", "CSS", "Photoshop", "Figma", "my brain"];
+const USE = ["<b>HTML</b>", "<b>CSS</b>", "<b>Photoshop</b>", "<b>Figma</b>", "<b>my brain</b>"];
 
-const <b>STUDY</b> = ["JavaScript", "React"];
+const STUDY= ["<b>JavaScript</b>", "<b>React</b>"];
 
 
